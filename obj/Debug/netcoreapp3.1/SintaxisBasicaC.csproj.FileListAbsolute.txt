@@ -1,0 +1,14 @@
+C:\Users\ANDRES CESPEDES\source\repos\SintaxisBasicaC\bin\Debug\netcoreapp3.1\SintaxisBasicaC.exe
+C:\Users\ANDRES CESPEDES\source\repos\SintaxisBasicaC\bin\Debug\netcoreapp3.1\SintaxisBasicaC.deps.json
+C:\Users\ANDRES CESPEDES\source\repos\SintaxisBasicaC\bin\Debug\netcoreapp3.1\SintaxisBasicaC.runtimeconfig.json
+C:\Users\ANDRES CESPEDES\source\repos\SintaxisBasicaC\bin\Debug\netcoreapp3.1\SintaxisBasicaC.runtimeconfig.dev.json
+C:\Users\ANDRES CESPEDES\source\repos\SintaxisBasicaC\bin\Debug\netcoreapp3.1\SintaxisBasicaC.dll
+C:\Users\ANDRES CESPEDES\source\repos\SintaxisBasicaC\bin\Debug\netcoreapp3.1\SintaxisBasicaC.pdb
+C:\Users\ANDRES CESPEDES\source\repos\SintaxisBasicaC\obj\Debug\netcoreapp3.1\SintaxisBasicaC.csproj.AssemblyReference.cache
+C:\Users\ANDRES CESPEDES\source\repos\SintaxisBasicaC\obj\Debug\netcoreapp3.1\SintaxisBasicaC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDRES CESPEDES\source\repos\SintaxisBasicaC\obj\Debug\netcoreapp3.1\SintaxisBasicaC.AssemblyInfoInputs.cache
+C:\Users\ANDRES CESPEDES\source\repos\SintaxisBasicaC\obj\Debug\netcoreapp3.1\SintaxisBasicaC.AssemblyInfo.cs
+C:\Users\ANDRES CESPEDES\source\repos\SintaxisBasicaC\obj\Debug\netcoreapp3.1\SintaxisBasicaC.csproj.CoreCompileInputs.cache
+C:\Users\ANDRES CESPEDES\source\repos\SintaxisBasicaC\obj\Debug\netcoreapp3.1\SintaxisBasicaC.dll
+C:\Users\ANDRES CESPEDES\source\repos\SintaxisBasicaC\obj\Debug\netcoreapp3.1\SintaxisBasicaC.pdb
+C:\Users\ANDRES CESPEDES\source\repos\SintaxisBasicaC\obj\Debug\netcoreapp3.1\SintaxisBasicaC.genruntimeconfig.cache
