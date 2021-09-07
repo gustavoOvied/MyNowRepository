@@ -69,6 +69,42 @@ namespace SintaxisBasicaC
             Console.WriteLine("Com hacer un Metodo = public double calculoArea(int radio){ \n" + "return pi * radio * radio \n}" + "\n este hace una funcion.\n");
 
             Console.WriteLine("Presentacion de Gustavo Andres Oviedo Cespedes\n ");
+
+            Console.WriteLine("\n\t Calcular potencia\n");
+
+            Potencia miPotencia = new Potencia();
+
+            Console.WriteLine("Escriba el n° base: ");
+            int num = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Escriba el exponente: ");
+            int expo = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("El resulta de " + num + "elevado a la " + expo + " = " + (miPotencia.CalcularPotencia(num,expo)));
+
+
+        }
+    }
+
+    class Potencia
+    {
+        public double CalcularPotencia(int numero, int exponente)
+        {
+            int resultado = 0;
+            int i = 1;
+            while (i < exponente)
+            {
+                if (resultado < numero)
+                {
+                    resultado = numero * numero;
+                }
+                else
+                {
+                    resultado = resultado * numero;
+                }
+                i++;
+            }
+            return resultado;
         }
     }
 }
