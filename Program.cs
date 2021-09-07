@@ -68,7 +68,7 @@ namespace SintaxisBasicaC
 
             Console.WriteLine("Com hacer un Metodo = public double calculoArea(int radio){ \n" + "return pi * radio * radio \n}" + "\n este hace una funcion.\n");
 
-            
+            Console.WriteLine("Presentacion de Gustavo Andres Oviedo Cespedes\n ");
         }
     }
 }
